@@ -72,7 +72,7 @@ I build backend systems, full-stack applications, and AI-powered tools.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
 ### 🧾 AI Invoice Auditor
 An AI-assisted invoice auditing workflow designed to extract invoice data, validate it against business rules, generate audit reports, and support natural-language queries over indexed invoice content.
