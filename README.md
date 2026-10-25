@@ -1,71 +1,144 @@
-Hi 👋 My name is Girish Nandanwar
-===================================
+<!--
+  GitHub Profile README
+  To use: create a public repository named exactly `gtcoder27`
+  and save this file as README.md in its root.
+-->
 
-Full Stack Developer | Competitive Programmer
------------------------------------
+<div align="center">
 
-I am An ambitious Computer Technology Engineering student with an optimistic attitude. I am always seeking opportunities to explore technological knowledge and excel in it.
+# Hey there, I'm Girish Nandanwar 👋
 
-Possess relevant professional experience gained in Web technology acquiring valuable insight into Implementation of the some using various projects.
+### Specialist Programmer L1 Trainee @ Infosys · Backend & AI Developer · Competitive Programmer
 
-I have command on Python, C++, HTML, CSS, Django, git and GitHub.
+I build backend systems, full-stack applications, and AI-powered tools.
 
-* 🌍  I'm based in Nagpur
-* ✉️  You can contact me at [https://www.linkedin.com/in/girishnandanwar/](mailto:https://www.linkedin.com/in/girishnandanwar/)
-* 🤝  I'm open to collaborating on Web Development
-* ⚡  Email : girishnandanwar2708@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/girish-nandanwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gtcoder27">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:girishnandanwar2708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.twitter.com/gtcoder27">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-<a href="https://www.twitter.com/gtcoder27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/gtcoder27?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/gtcoder27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gtcoder27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-### Socials
-
-<p align="left"> 
- <a href="https://www.github.com/gtcoder27" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
- <a href="http://www.instagram.com/girish_nandanwar_27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
- <a href="https://www.linkedin.com/in/girishnandanwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- <a href="https://www.twitter.com/gtcoder27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gtcoder27"><img src="https://github-readme-stats.vercel.app/api?username=gtcoder27&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="girishnandanwar's GitHub stats" /></a>
-
-<a href="http://www.github.com/gtcoder27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gtcoder27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/gtcoder27"><img src="https://activity-graph.herokuapp.com/graph?username=gtcoder27&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/gtcoder27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtcoder27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
- 
-  <a href="https://github.com/gtcoder27/" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=Movie-search&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
- 
- <a href="https://github.com/gtcoder27" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=girishnandanwar&repo=MyBlog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<img src="https://komarev.com/ghpvc/?username=gtcoder27&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
- 
- <br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+---
 
-<div width="100%" align="center"><a href="https://github.com/girishnandanwar/Desktop-Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=girishnandanwar&repo=Desktop-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/girishnandanwar/PlayWithWords" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=girishnandanwar&repo=PlayWithWords&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+## 👨‍💻 About Me
+
+- 🚀 Currently working as a **Specialist Programmer L1 Trainee at Infosys**.
+- 🎓 Graduated in **Computer Technology Engineering** from YCCE, Nagpur.
+- 🧠 Interested in **backend engineering, AI agents, LLM applications, and system design**.
+- 🛠️ I enjoy turning ideas into useful applications with clean APIs and reliable data flows.
+- 🏆 Competitive programmer who enjoys solving challenging problems and learning new techniques.
+- 🤝 Open to collaborating on backend, full-stack, and AI-powered projects.
+- 📍 Based in India.
+- 📫 Reach me at **[girishnandanwar2708@gmail.com](mailto:girishnandanwar2708@gmail.com)**.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="C++, Java, Python, JavaScript, HTML, CSS"/>
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Node.js, Express, FastAPI, Django"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="React, Vite, Tailwind CSS, Bootstrap"/>
+</p>
+
+### Databases, AI & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,aws,azure,git,github,linux" alt="MongoDB, PostgreSQL, SQLite, Docker, AWS, Azure, Git, GitHub, Linux"/>
+</p>
+
+**AI/LLM ecosystem:** LangChain · LangGraph · RAG · Qdrant · Ollama · LiteLLM · AWS Bedrock
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🧾 AI Invoice Auditor
+An AI-assisted invoice auditing workflow designed to extract invoice data, validate it against business rules, generate audit reports, and support natural-language queries over indexed invoice content.
+
+**Highlights:** LangGraph · Python · PostgreSQL · Qdrant · RAG · AWS Bedrock · Docker
+
+### 📱 LLM Middleware for Mobile Apps
+A middleware concept for sending requests from mobile applications to language models hosted on a local/remote machine or through an LLM API.
+
+**Highlights:** React Native · Expo · API design · Ollama · Remote endpoints
+
+### 💬 Chat App with Voice Features
+A real-time chat application with user authentication, messaging, image sharing, and voice-related features.
+
+**Highlights:** React · Node.js · Express · MongoDB · Socket.IO · Cloudinary
+
+### ☕ Coffee-Container
+A secret-code-based file-sharing application for uploading and downloading files with a simple web interface.
+
+**Highlights:** React · Vite · Node.js · Express · Firebase Firestore · Cloudinary
+
+> Add links to each repository above once the projects are published under your GitHub account.
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gtcoder27&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Girish's GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtcoder27&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=gtcoder27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🏅 Achievements & Learning
+
+- 🥇 Winner — Versus Coding competition.
+- 🏆 Finalist — Smart India Hackathon (SIH), serving as a technical lead.
+- 💻 Practiced competitive programming and participated in LeetCode contests.
+- 📚 Continuously learning backend architecture, AI agents, retrieval-augmented generation, and cloud technologies.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to discuss software engineering, backend development, AI applications, and collaboration opportunities.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/girish-nandanwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Girish%20Nandanwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gtcoder27">
+    <img src="https://img.shields.io/badge/GitHub-gtcoder27-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:girishnandanwar2708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<div align="center">
+
+### 💡 “Build consistently. Learn continuously. Improve every day.”
+
+</div>
